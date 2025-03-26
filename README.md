@@ -1,3 +1,9 @@
+# We applied patch to capture GPU stats
+```
+make pack
+ln -sf /home/jwhwang/workspace/bioinformatics.code/third_parties/nextflow/build/releases/nextflow-25.04.4-dist ~/.local/bin/nextflow
+```
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/_static/nextflow-logo-bg-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="docs/_static/nextflow-logo-bg-light.png">
